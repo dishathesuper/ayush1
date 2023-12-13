@@ -1,0 +1,41 @@
+.travel_mainDiv {
+    border: 1px solid blue;
+    padding left: 0px;
+    padding-right: 0px;
+    float: none;
+
+}
+.phone{
+    line-height:20px;
+    right:30px;
+    position:absolute;
+    font-size:30px;
+    font-weight:100;
+    font-family:'Lato',sans-serif;
+    color:rgb(0, 0, 255);}
+
+
+    .imghome
+     {
+    width:100%;
+   
+}
+
+
+#about p{
+font-size:25px;
+text-align: center;
+}
+.choclate span{
+   font-size: 20px; 
+}
+.choclate img{
+    width:25%
+ }
+ #contact iframe
+{
+    width: 100%;
+}
+.imgabout {
+    width:50%
+}
